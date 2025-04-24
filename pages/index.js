@@ -7,6 +7,7 @@ function Home(){
                 <Contador />
 
                 <a href="/sobre">Acesse a Página 'Sobre'</a>
+                <a href="/contato">Acesse a Página 'Contato'</a>
             </div>
 }
 
